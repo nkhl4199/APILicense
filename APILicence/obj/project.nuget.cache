@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "6pK9chwMbPVLTTZL6XxPtV3dNkMVk79FcesTNggYxosgHN8QXqfDSeJm4Fgpopd/5E081H2b9j6cBhqowmzKJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nkhl\\Desktop\\APILicence\\APILicence\\APILicence.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nkhl\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\mongodb.bson\\2.18.0\\mongodb.bson.2.18.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\mongodb.driver\\2.18.0\\mongodb.driver.2.18.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\mongodb.driver.core\\2.18.0\\mongodb.driver.core.2.18.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\mongodb.libmongocrypt\\1.6.0\\mongodb.libmongocrypt.1.6.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\sharpcompress\\0.30.1\\sharpcompress.0.30.1.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\snappier\\1.0.0\\snappier.1.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\zstdsharp.port\\0.6.2\\zstdsharp.port.0.6.2.nupkg.sha512",
+    "C:\\Users\\Nkhl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
